@@ -1,4 +1,4 @@
-# 
+# secure deribit trading bot Module | scalping + liquidity-provision is the best deribit trading bot, featuring scalping and liquidity-provision. Smart, fast, and optimized for
 
 
 
